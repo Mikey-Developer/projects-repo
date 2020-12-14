@@ -1,2 +1,3 @@
-# projects-repo
-Repository with a list of projects made during my journey as a developer.
+# MY PROJECTS
+
+Here's where I list all my programming projects, as a timeline of my progress during my journey as a developer :)
